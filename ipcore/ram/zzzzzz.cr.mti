@@ -1,0 +1,40 @@
+C:/Users/hasee/Desktop/996zzsz/zzzsz/ipcore/ram/ram_init_param.v {0 {vlog -work work C:/Users/hasee/Desktop/996zzsz/zzzsz/ipcore/ram/ram_init_param.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+** Error: C:/Users/hasee/Desktop/996zzsz/zzzsz/ipcore/ram/ram_init_param.v(6): (vlog-2155) Global declarations are illegal in Verilog 2001 syntax.
+
+** Error: C:/Users/hasee/Desktop/996zzsz/zzzsz/ipcore/ram/ram_init_param.v(1047): (vlog-2730) Undefined variable: 'INIT_00_0_15'.
+
+** Error: C:/Users/hasee/Desktop/996zzsz/zzzsz/ipcore/ram/ram_init_param.v(1047): 'INIT_00_0_15' already declared in this scope (work).
+** Error: C:/Users/hasee/Desktop/996zzsz/zzzsz/ipcore/ram/ram_init_param.v(1047): Verilog Compiler exiting
+
+} {3.0 4.0 5.0 6.0 7.0 9.0} {}} C:/Users/hasee/Desktop/996zzsz/zzzsz/ipcore/ram/ram.v {2 {vlog -work work C:/Users/hasee/Desktop/996zzsz/zzzsz/ipcore/ram/ram.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ram
+** Warning: C:/Users/hasee/Desktop/996zzsz/zzzsz/ipcore/ram/ram.v(103): (vlog-2249) Non-positive replication multiplier inside concat. Replication will be ignored.
+
+
+Top level modules:
+	ram
+
+} {} {}} C:/pango/PDS_2018.1B2/arch/vendor/pango/verilog/simulation/GTP_DRM18K_E1.v {1 {vlog -work work C:/pango/PDS_2018.1B2/arch/vendor/pango/verilog/simulation/GTP_DRM18K_E1.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module GTP_DRM18K_E1
+
+Top level modules:
+	GTP_DRM18K_E1
+
+} {} {}} C:/Users/hasee/Desktop/996zzsz/zzzsz/ipcore/ram/rtl/ipml_spram_v1_0_ram.v {1 {vlog -work work C:/Users/hasee/Desktop/996zzsz/zzzsz/ipcore/ram/rtl/ipml_spram_v1_0_ram.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ipml_spram_v1_0_ram
+
+Top level modules:
+	ipml_spram_v1_0_ram
+
+} {} {}} C:/Users/hasee/Desktop/996zzsz/zzzsz/ipcore/ram/ram_tb.v {1 {vlog -work work C:/Users/hasee/Desktop/996zzsz/zzzsz/ipcore/ram/ram_tb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ram_tb
+
+Top level modules:
+	ram_tb
+
+} {} {}}

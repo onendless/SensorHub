@@ -1,0 +1,83 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\hasee\Desktop\cmos
+vGTP_DRM18K_E1
+!i10b 1
+Z1 !s100 fJAPGM8WU1mmTPaV6Az1>0
+Z2 I6T;Omz;eDjlXXTJl6GMTZ2
+Z3 V8S70DcGkec2gYS?Y@@EEE1
+Z4 dC:\Users\hasee\Desktop\996zzsz\zzzsz\ipcore\ram
+Z5 w1517915810
+Z6 8C:/pango/PDS_2018.1B2/arch/vendor/pango/verilog/simulation/GTP_DRM18K_E1.v
+Z7 FC:/pango/PDS_2018.1B2/arch/vendor/pango/verilog/simulation/GTP_DRM18K_E1.v
+L0 28
+Z8 OV;L;10.1d;51
+r1
+!s85 0
+31
+!s108 1524225842.505000
+!s107 C:/pango/PDS_2018.1B2/arch/vendor/pango/verilog/simulation/GTP_DRM18K_E1.v|
+Z9 !s90 -reportprogress|300|-work|work|C:/pango/PDS_2018.1B2/arch/vendor/pango/verilog/simulation/GTP_DRM18K_E1.v|
+!s101 -O0
+Z10 o-work work -O0
+Z11 n@g@t@p_@d@r@m18@k_@e1
+vipml_spram_v1_0_ram
+Z12 IKoajG_@_]_b5_dn7:H0PY3
+Z13 V]cg5eLQEV<jQ9bF`8T7>A0
+R4
+Z14 w1524224986
+Z15 8C:/Users/hasee/Desktop/996zzsz/zzzsz/ipcore/ram/rtl/ipml_spram_v1_0_ram.v
+Z16 FC:/Users/hasee/Desktop/996zzsz/zzzsz/ipcore/ram/rtl/ipml_spram_v1_0_ram.v
+Z17 Fram_init_param.v
+L0 19
+R8
+r1
+31
+R10
+!i10b 1
+Z18 !s100 8>dF6aU1Ob;Vo6I2Y<MjZ0
+!s85 0
+Z19 !s108 1524225842.163000
+Z20 !s107 ram_init_param.v|C:/Users/hasee/Desktop/996zzsz/zzzsz/ipcore/ram/rtl/ipml_spram_v1_0_ram.v|
+Z21 !s90 -reportprogress|300|-work|work|C:/Users/hasee/Desktop/996zzsz/zzzsz/ipcore/ram/rtl/ipml_spram_v1_0_ram.v|
+!s101 -O0
+vram
+Z22 !s100 o;PGZk08JnFQKiRI89GbB1
+Z23 Ii[kzGb6njgED<mo;>Tbim2
+Z24 V?@^FKTfibXO1^<62BW@hC1
+R4
+Z25 w1524224972
+Z26 8C:/Users/hasee/Desktop/996zzsz/zzzsz/ipcore/ram/ram.v
+Z27 FC:/Users/hasee/Desktop/996zzsz/zzzsz/ipcore/ram/ram.v
+L0 18
+R8
+r1
+31
+Z28 !s90 -reportprogress|300|-work|work|C:/Users/hasee/Desktop/996zzsz/zzzsz/ipcore/ram/ram.v|
+R10
+Z29 !s108 1524225841.301000
+Z30 !s107 C:/Users/hasee/Desktop/996zzsz/zzzsz/ipcore/ram/ram.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vram_tb
+Z31 !s100 9IY:BVa=L=>MN;?;;h`m03
+Z32 IIfZNDo3F`7a6:=dNdHiJU2
+Z33 VWiI[HPVIVe4j@:3nAaJQd0
+R4
+R25
+Z34 8C:/Users/hasee/Desktop/996zzsz/zzzsz/ipcore/ram/ram_tb.v
+Z35 FC:/Users/hasee/Desktop/996zzsz/zzzsz/ipcore/ram/ram_tb.v
+L0 19
+R8
+r1
+31
+Z36 !s90 -reportprogress|300|-work|work|C:/Users/hasee/Desktop/996zzsz/zzzsz/ipcore/ram/ram_tb.v|
+R10
+Z37 !s108 1524225841.584000
+Z38 !s107 C:/Users/hasee/Desktop/996zzsz/zzzsz/ipcore/ram/ram_tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
